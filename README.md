@@ -4,7 +4,13 @@ Simulador simple de envío de correos en el navegador. Permite completar un form
 ## Demo
 
 Para mirar la demo del proyecto visita: [Mail Simulator](https://jsproyecto2.netlify.app/)  
-También hay capturas de pantalla en el proyecto (`mail-simulator.webp`, `mail-simulator-2.webp`, `mail-simulator-3.webp`).
+
+![preview](mail-simulator.webp)
+<br>
+![preview](mail-simulator-2.webp)
+<br>
+![preview](mail-simulator-3.webp)
+<br>
 
 ## Características
 
